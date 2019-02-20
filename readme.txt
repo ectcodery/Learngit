@@ -6,3 +6,4 @@ Git tracks changes of files jkl.
 Git is great!
 =======
 >>>>>>> 228b0e8d65b442a7fed98238bf90f00a3984acda
+1
