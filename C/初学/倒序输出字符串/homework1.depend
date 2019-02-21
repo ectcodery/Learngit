@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1489845015 source:d:\codeblocks\result\caogao\homework1\main.c
+	<stdio.h>
+
+1491192454 source:d:\codeblocks\result\倒序输出三位数\main.c
+	<stdio.h>
+	<string.h>
+
