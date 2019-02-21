@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1512741799 source:d:\codeblocks\result\数据结构与算法分析\bst\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
