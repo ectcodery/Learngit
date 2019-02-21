@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1510838294 source:d:\codeblocks\result\数据结构与算法分析\上机题\二\1\1\main.c
+	<stdio.h>
+	<malloc.h>
+	<string.h>
+

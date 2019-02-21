@@ -1,5 +1,5 @@
 function [root,res]=gexian(f,a,b,eps)
-
+%what
     if(nargin==3)
         eps=1.0e-8;
     end
