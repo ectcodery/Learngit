@@ -1,5 +1,5 @@
 function [root,res]=gexian(f,a,b,eps)
-
+%what
     if(nargin==3)
         eps=1.0e-8;
     end
@@ -11,7 +11,7 @@ function [root,res]=gexian(f,a,b,eps)
     if(f2==0)
         root=b;
         endif(f1*f2>0)
-        disp('Á½¶Ëµãº¯ÊýÖµ³Ë»ý´óÓÚ0!');
+        disp('ä¸¤ç«¯ç‚¹å‡½æ•°å€¼ä¹˜ç§¯å¤§äºŽ0!');
         return;
     else
         tol=1;
