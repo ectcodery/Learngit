@@ -37,6 +37,7 @@
 *.hex
 *.depend
 *.layout
+.gitignore
 
 # Debug files
 *.dSYM/
