@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1496154915 source:d:\codeblocks\result\caogao\t9\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

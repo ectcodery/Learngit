@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1492609495 source:d:\codeblocks\result\caogao\xiti\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
